@@ -1,5 +1,5 @@
 # ZebraPuzzle
-To run both Z3_written_original.ipynb(written by me) and Chatgpt_generated_z3code.ipynb(generated using the app):
+To run both Z3_written_original.ipynb(written by me discussed in the report) and Chatgpt_generated_z3code.ipynb(generated using the app):
 Install jupyter lab and z3:
 pip install jupyterlab
 pip install z3-solver.
